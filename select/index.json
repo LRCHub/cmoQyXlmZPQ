@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "雨宿り",
+  "base_artist": "Penthouse",
+  "createdAt": "2026-02-22T04:55:36.435947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨宿り",
+      "artist": "Suara",
+      "has_synced": false,
+      "path": "select/01_雨宿り_Suara.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨宿り",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": true,
+      "path": "select/02_雨宿り_Kazuyoshi_Saito.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雨宿り",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": true,
+      "path": "select/03_雨宿り_Mayumi_Itsuwa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雨宿り",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/04_雨宿り_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雨宿り",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": true,
+      "path": "select/05_雨宿り_Mayumi_Itsuwa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雨宿り",
+      "artist": "Yuiko Ohara",
+      "has_synced": true,
+      "path": "select/06_雨宿り_Yuiko_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雨宿り",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": false,
+      "path": "select/07_雨宿り_Mayumi_Itsuwa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雨宿り - Amayadori",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": true,
+      "path": "select/08_雨宿り_-_Amayadori_Mayumi_Itsuwa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雨宿り",
+      "artist": "Penthouse",
+      "has_synced": true,
+      "path": "select/09_雨宿り_Penthouse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨宿り",
+      "artist": "Penthouse",
+      "has_synced": false,
+      "path": "select/pl_01_雨宿り_Penthouse.txt"
+    }
+  ]
+}
